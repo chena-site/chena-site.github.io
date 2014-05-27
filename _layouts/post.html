@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<div class="post-back">
+<a class="post-back-link" href="javascript:history.back()"><span class="icon-arrow-left"></span> Back</a>
+<a class="post-back-link" href="/"><span class="icon-arrow-up"></span> Home</a>
+</div>
+<h2>{{ page.title }}</h2>
+<p class="meta">{{ page.date | date_to_string }}</p>
+
+<div class="post">
+{{ content }}
+</div>
