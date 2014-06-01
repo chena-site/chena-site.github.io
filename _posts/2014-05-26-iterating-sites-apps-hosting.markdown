@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Iterating Websites/Apps and Free/Low-Cost Hosting Over the Years
+title: Frugal Development: Iterating Online Websites/Apps
 tags: web static-sites
 categories: websites hosting
 date: 2014-05-26
