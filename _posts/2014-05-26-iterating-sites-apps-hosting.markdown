@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Frugal Development: Iterating Online Websites/Apps
+title: "Frugal Development : Iterating Online Websites/Apps"
 tags: web static-sites
 categories: websites hosting
 date: 2014-05-26
