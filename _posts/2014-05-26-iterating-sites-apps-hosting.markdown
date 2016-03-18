@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Frugal Development : Iterating Online Websites/Apps"
+title: "Easy bootstrapping : Iterating Online Websites/Apps"
 tags: web static-sites
 categories: websites hosting
 date: 2014-05-26
 ---
 
-In the past, the classic way of iterating over web apps/sites on the web (other than a local Apache/Nginx server) was utilizing free hosting services (assuming no budget). It's 2014 and the trends have changed tremendously over the past decade. I moved my site to using Jekyll and Github Pages recently, and it led me to reflect on what I saw in the market over the years with respect to solutions for sites on very low/nearly no budget.
+In the past, the classic way of iterating over web apps/sites on the web (other than a local Apache/Nginx server) was utilizing free hosting services (assuming no budget). It's 2014 and the trends have changed tremendously over the past decade. I moved my site to using Jekyll and Github Pages recently, and it led me to reflect on what I saw in the market over the years with respect to solutions for sites on very low/nearly no budget (or if you simply want to extend your run-way for finding product-market fit).
 
 ## The Sites of Yester-decade :
 
